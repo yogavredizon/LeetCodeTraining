@@ -1,0 +1,1 @@
+This repo is used for documentation my code in LeetCode
