@@ -12,15 +12,5 @@ func NumberOfSteps(num int) int {
 		step++
 	}
 
-	// for i := num; i > 0; i-- {
-	// 	step = i
-	// 	// if i%2 == 0 {
-	// 	// 	i /= 2
-	// 	// } else {
-	// 	// 	i -= 1
-	// 	// }
-
-	// }
-
 	return step
 }
